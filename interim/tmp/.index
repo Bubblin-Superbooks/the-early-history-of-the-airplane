@@ -1,3 +1,6 @@
 {
-  "0": "<li><a class = \"page\" href=\"8\"> The DAYTON-WRIGHT AIRPLANE CO. DAYTON&middot;OHIO </a> <span class=\"flex\">8</span> </li>"
+  "0": "<li><a class = \"page\" href=\"6\"> The Wright Brothers  </a> <span class=\"flex\">6</span> </li>",
+  "1": "<li><a class = \"page\" href=\"9\"> [1] The Wright Brothers&rsquo; Aeroplane </a> <span class=\"flex\">9</span> </li>",
+  "2": "<li><a class = \"page\" href=\"45\">  How We Made the First Flight  </a> <span class=\"flex\">45</span> </li>",
+  "3": "<li><a class = \"page\" href=\"76\">  Some Aeronautical Experiments  </a> <span class=\"flex\">76</span> </li>"
 }

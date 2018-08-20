@@ -88,11 +88,11 @@ p {
 
 p.chapter-begin:first-letter {
   display: inline-block;
-  margin: 5vw 1vw .1vw 0;
+  margin: 3vw 1vw .1vw 0;
   float: left;
   line-height: 10vw;
-  font-size: 25vw;
-  color: hsla(11, 50%, 50%, 1);
+  font-size: 20vw;
+  color: hsla(0, 0%, 00%, 1);
 }
 
 .center {
